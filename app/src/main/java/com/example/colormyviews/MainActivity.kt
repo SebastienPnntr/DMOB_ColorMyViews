@@ -1,3 +1,4 @@
+// Developpeur: Sebastien Pannatier
 package com.example.colormyviews
 
 import androidx.appcompat.app.AppCompatActivity
