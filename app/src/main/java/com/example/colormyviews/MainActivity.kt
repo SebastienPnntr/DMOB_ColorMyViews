@@ -1,4 +1,4 @@
-// Developpeur: Sebastien Pannatier
+// Developpeur: Sébastien Pannatier
 package com.example.colormyviews
 
 import android.graphics.Color
